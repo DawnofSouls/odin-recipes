@@ -3,4 +3,5 @@ First project tackling HTML skills. Recipes are based on Soulsborne Franchise e.
 
 # Project Date
 Started on 2023 January 10 05:06PM PT
-Finished on 2023 January 10 07:40PM PT  
+<br /> 
+Finished on 2023 January 10 07:40PM PT
