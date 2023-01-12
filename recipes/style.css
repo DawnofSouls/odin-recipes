@@ -108,6 +108,28 @@
     color: #AB966F;
 }
 
+.MushroomIMG {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height:auto;
+}
+
+.MushroomDescrip {
+    text-align: center;
+    font-family: 'Arimo',serif;
+    color: #B4B2B0;
+}
+
+.MushHeader {
+    font-family: 'OptimusPrinceps', serif ;
+    text-transform: uppercase;
+    text-align: center;
+    color: #AB966F;
+    font-size: 20px;
+}
+
 /* Fonts copy and paste
 'Marcellus SC', serif
 'Spectral', serif;
