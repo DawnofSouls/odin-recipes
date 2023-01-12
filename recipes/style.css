@@ -42,7 +42,7 @@
 .List1 {
     text-align: center;
     color:#B4B2B0;
-    list-style-position: inside;
+    list-style-position: inside; /* This makes the dot and number found on UL and OL to make it right next to content instead of hugging far left side of the screen */
     
 }
 
@@ -134,6 +134,11 @@
     margin-bottom: 75px;
 }
 
+.MushroomList {
+    text-align: center;
+    color:#B4B2B0;
+    list-style-position: inside;
+}
 /* Fonts copy and paste
 'Marcellus SC', serif
 'Spectral', serif;
