@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'OptimusPrinceps' ;
+    src: url(fonts/OptimusPrinceps.ttf);
+}
+
+#maintitle {
+    font-family: 'Marcellus SC', serif;
+    font-weight: 100;
+    text-align: center;
+}
+
+
