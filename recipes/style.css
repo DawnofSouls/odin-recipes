@@ -1,3 +1,8 @@
+@font-face {
+    font-family: 'OptimusPrinceps' ;
+    src: url(..fonts/OptimusPrinceps.ttf);
+}
+
 * {
     background-color: black;
 }
@@ -8,6 +13,7 @@
     text-transform: uppercase;
     text-align: center;
     color: #B4B2B0;
+   
 }
 
 .PrawnIMG {
@@ -22,16 +28,21 @@
     color: #B4B2B0;
 }
 .margin1{
-    margin-bottom: 50px;
+    margin-bottom: 75px;
 }
 
 .PIngredients {
-    font-family: 'Spectral', serif;
+    font-family: 'OptimusPrinceps', serif ;
     text-transform: uppercase;
     text-align: center;
-    color: #B4B2B0;
+    color: #AB966F;
+    font-size: 20px;
 }
 
+.List1 {
+    text-align: center;
+    color:#B4B2B0
+}
 
 /* Fonts copy and paste
 'Marcellus SC', serif
