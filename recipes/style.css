@@ -98,6 +98,15 @@
     list-style-position: inside;
 }
 
+/* Mushroom_People.html below */
+
+.MushroomTitle {
+    font-family: 'Marcellus SC', serif;
+    font-weight: 500;
+    text-transform: uppercase;
+    text-align: center;
+    color: #AB966F;
+}
 
 /* Fonts copy and paste
 'Marcellus SC', serif
