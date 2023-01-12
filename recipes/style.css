@@ -74,6 +74,12 @@
     height:auto;
 }
 
+.EstusDescription {
+    text-align: center;
+    font-family: 'Arimo',serif;
+    color: #B4B2B0;
+}
+
 /* Fonts copy and paste
 'Marcellus SC', serif
 'Spectral', serif;
