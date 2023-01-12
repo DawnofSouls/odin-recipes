@@ -3,10 +3,46 @@
     src: url(fonts/OptimusPrinceps.ttf);
 }
 
+* {
+    background-color: black;
+}
+
 #maintitle {
-    font-family: 'Marcellus SC', serif;
+    font-family: 'Marcellus SC', serif ;
     font-weight: 100;
     text-align: center;
+    color: #B4B2B0
 }
 
 
+img {
+    width: 800px;
+    height: 450px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 25px;
+}
+
+.RecipesPageLink {
+    text-align: center;
+    font-family: 'OptimusPrinceps', serif ;
+    font-size: 25px;
+    color: #B4B2B0
+    
+}
+
+a:link {
+    color:#AB966F
+}
+
+a:visited {
+    color: #AB966F;
+  }
+  
+
+
+/* Fonts copy and paste
+'Marcellus SC', serif
+'Spectral', serif;
+'OptimusPrinceps'. serif;
