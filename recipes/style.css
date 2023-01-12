@@ -83,7 +83,23 @@
 .margin2 {
     margin-bottom: 75px;
 }
+
+.HeaderEstus {
+    font-family: 'OptimusPrinceps', serif ;
+    text-transform: uppercase;
+    text-align: center;
+    color: #AB966F;
+    font-size: 20px;
+}
+
+.EstusList {
+    text-align: center;
+    color:#B4B2B0;
+    list-style-position: inside;
+}
+
+
 /* Fonts copy and paste
 'Marcellus SC', serif
 'Spectral', serif;
-'OptimusPrinceps'. serif;
+'OptimusPrinceps'. serif; */
